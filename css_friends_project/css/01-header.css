@@ -1,0 +1,19 @@
+/* PHASE 1: Header */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+    display: inline;
+}
